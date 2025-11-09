@@ -14,7 +14,6 @@ This project analyzes BMW’s sales data across multiple dimensions — **time, 
 
 The report is spread across **two interactive Power BI pages**, each offering a unique perspective on performance and trends.  
 
----
 
 ## 🧩 Tools & Techniques  
 
@@ -25,9 +24,6 @@ The report is spread across **two interactive Power BI pages**, each offering a 
 Some of the key DAX functions and techniques I implemented include:  
 `CALCULATE`, `VAR`, `UNICHAR`, `IF`, `CALCULATED COLUMN`, `MEASURE`, `FORMAT`, `WEEKDAY`, and `ISBLANK`.  
 
-To make the visuals even more insightful, I also integrated a **custom sparkline snippet** from [kerrykolosko.com](https://kerrykolosko.com) — adding sleek mini trend charts for quick pattern recognition 🔍  
-
----
 
 ## ⚙️ Data Preparation  
 
@@ -71,20 +67,6 @@ Building this project refined my understanding of:
 - Creating data stories that connect analytics with strategy  
 
 
----
-
-## 🚀 Getting Started  
-
-To explore the dashboard yourself:  
-
-1. **Clone** this repository to your computer.  
-   ```bash
-   https://github.com/yswnt01/BMW-Sales-Analysis-Dashboard-Power-BI-Project/blob/main/BMW%20Sales%20Dashboard.pbix
-2.  Install Power BI Desktop (if not already).
-Open the .pbix file in Power BI Desktop.
-3. Enjoy a fully interactive experience with ready-to-use visuals and insights!
-
----
 
 ## 🚀 Conclusion  
 
@@ -96,4 +78,4 @@ It reflects my growing passion for using **Power BI** to transform complex datas
 
 
 👨‍💻 Author  
-**Yashwant Gupta**
+**Dinesh Reddy**
